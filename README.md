@@ -1,2 +1,2 @@
 # Optimization_Programming
-Exploring on linear programming problems
+Exploring on linear programming.
